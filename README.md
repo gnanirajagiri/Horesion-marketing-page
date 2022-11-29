@@ -1,8 +1,8 @@
-# horesionmarketingpage
+# horiseonmarketingpage
 Marketing page of Horesion
 
 # Description
-This is a marketing webpage of the  Horesion. This webpage consists of all the services provided by Horesion e.g. Search Engine Optimization, Online Reputation Management, Social Media Marketing.
+This is a marketing webpage of the  Horiseon. This webpage consists of all the services provided by Horiseon e.g. Search Engine Optimization, Online Reputation Management, Social Media Marketing.
 
 # installation
 N/A
@@ -15,3 +15,4 @@ N/A
 # License
 Please refer to the LICENSE in the repo.
 
+!myimage
