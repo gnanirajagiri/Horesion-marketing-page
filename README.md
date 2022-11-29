@@ -22,4 +22,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-![My Image](../Horiseon-marketing-page/assets/images/Horiseon.jpg)
+![My Image](/assets/images/Horiseon.jpg)
